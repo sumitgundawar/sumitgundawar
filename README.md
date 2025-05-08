@@ -4,8 +4,11 @@
 ![React](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-3c873a?style=flat-square&logo=node.js&logoColor=white)
 
-## 📊 GitHub Stats
+## GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=sumitgundawar&theme=tokyonight)
+
+## GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sumitgundawar&show_icons=true&theme=tokyonight)
 
-## 🔥 Most Used Languages
+## Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitgundawar&layout=compact&theme=tokyonight)
