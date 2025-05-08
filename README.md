@@ -7,8 +7,8 @@
 ## GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=sumitgundawar&theme=tokyonight)
 
-## GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sumitgundawar&show_icons=true&theme=tokyonight)
-
 ## Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitgundawar&layout=compact&theme=tokyonight)
+
+## GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sumitgundawar&show_icons=true&theme=tokyonight)
